@@ -1,0 +1,12 @@
+Version: 1.0
+State: Released
+Platform: Bot
+
+- Started to work on a basic website.
+
+- Added ban.
+- Added kick command.
+- Added fortnite command.
+- Added purge command.
+
+- Removed unused code on the fornite command.
